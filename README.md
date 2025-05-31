@@ -24,5 +24,10 @@ A beautifully crafted Flutter application demonstrating user management, API int
 
 More: [DummyJSON API Docs](https://dummyjson.com/docs)
 
+## Screenshots
+https://github.com/darkspirit05/flutter_user_app/blob/70a1285391dc7a7bd06973ea949270c8eb3d176a/Screenshot%202025-05-31%20215407.png
+https://github.com/darkspirit05/flutter_user_app/blob/70a1285391dc7a7bd06973ea949270c8eb3d176a/Screenshot%202025-05-31%20215423.png
+https://github.com/darkspirit05/flutter_user_app/blob/70a1285391dc7a7bd06973ea949270c8eb3d176a/Screenshot%202025-05-31%20215439.png
+
 ## Demo Video
 https://github.com/darkspirit05/flutter_user_app/blob/3b49448fccc48c807e3dca2590f46c4877f97369/AppDemoVideo.mp4
