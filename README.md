@@ -1,33 +1,27 @@
-# Flutter User App
+# 🌟 Flutter User App
 
-A beautifully designed Flutter application built using the BLoC pattern with dark/light theme support, user search, pagination, and nested data fetching.
+A beautifully crafted Flutter application demonstrating user management, API integration, BLoC state management, and modern UI design.
 
-## 🌟 Features
+---
 
-- ✅ User list with infinite scroll and real-time search
-- ✅ User detail screen with posts and todos
-- ✅ Create new post (local)
-- ✅ Light/Dark theme toggle
-- ✅ Clean folder structure using BLoC
-- ✅ Loading indicators and error handling
+## ✨ Features
 
-## 📦 API Used
+- 🔄 **Fetch Users** with pagination and infinite scroll
+- 🔍 **Real-time search** by user name
+- 👤 **User Detail View**: Display posts and todos
+- ➕ **Create Post**: Add new posts locally
+- 📦 **BLoC Pattern** for clean state management
+- 🚫 **Error handling** & 💬 **loading indicators**
+- ✅ **Responsive and attractive UI**
 
-- Users: https://dummyjson.com/users
-- User Posts: https://dummyjson.com/posts/user/{userId}
-- User Todos: https://dummyjson.com/todos/user/{userId}
+---
 
-## 🧱 Architecture
+## 🔗 APIs Used
 
-- `flutter_bloc` for state management
-- `repository` and `service` layers for clean separation
-- `screens` and `widgets` for UI components
-- `models` to represent API responses
+- **Users:** `https://dummyjson.com/users`
+- **User Posts:** `https://dummyjson.com/posts/user/{userId}`
+- **User Todos:** `https://dummyjson.com/todos/user/{userId}`
 
-## 🚀 Getting Started
+More: [DummyJSON API Docs](https://dummyjson.com/docs)
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/darkspirit05/flutter_user_app.git
-cd flutter_user_app
+## Screenshots
