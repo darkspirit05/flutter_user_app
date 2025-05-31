@@ -12,9 +12,7 @@ void main() {
 }
 
 class FlutterUserApp extends StatelessWidget {
-  FlutterUserApp({Key? key}) : super(key: key);
-  final ValueNotifier<ThemeMode> _themeMode = ValueNotifier(ThemeMode.light);
-
+  FlutterUserApp({super.key});
   final ThemeData lightTheme = ThemeData(
     brightness: Brightness.light,
     primarySwatch: Colors.indigo,
